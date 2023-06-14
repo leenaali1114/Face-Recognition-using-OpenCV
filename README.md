@@ -1,4 +1,4 @@
-# easy-real-time-face-recognition-python
+# Face Recognition using OpenCV
 
 ## packages needed
   1. opencv
